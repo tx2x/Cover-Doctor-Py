@@ -11,7 +11,7 @@
 
 </div>
 
-![Screenshot](Screenshot.png)
+![Screenshot](window_screenshot.png)
 
 ---
 
